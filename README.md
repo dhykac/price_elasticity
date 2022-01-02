@@ -1,7 +1,7 @@
 # Price Elasticity using Linear Regression
 
 This repository is about using Linear Regression to analyze Price Elasticity of product.
-= [Dataset](https://www.kaggle.com/sourabhbaldwa/commerceiq)
+- [Dataset](https://www.kaggle.com/sourabhbaldwa/commerceiq)
 - [Notebook](https://github.com/dhykac/price_elasticity_linreg/blob/main/price_elasticity_linreg.ipynb)
 
 Results Overview :
